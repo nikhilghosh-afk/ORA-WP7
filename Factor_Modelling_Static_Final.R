@@ -233,10 +233,10 @@ financials_stoxx <- read.csv("STOXX600_Historical_Monthly_Final.csv", header = T
   filter(Date >= Start_Date & Date <= End_Date) %>%
   drop_na(Date)
 ff_spx <- read.csv("mkt_ref_data_spx.csv", header = TRUE) %>%
-  mutate(Date = ym(Date)) %>%
+  mutate(Date = ym(Date) %m+% months(1)) %>%
   mutate(across(-Date, ~ as.numeric(.) / 100))
 ff_stoxx <- read.csv("mkt_ref_data_stoxx.csv", header = TRUE) %>%
-  mutate(Date = ym(Date)) %>%
+  mutate(Date = ym(Date) %m+% months(1)) %>%
   mutate(across(-Date, ~ as.numeric(.) / 100))
 sectors_spx <- read.csv("sectors_spx.csv", header = TRUE)
 sectors_stoxx <- read.csv("sectors_stoxx.csv", header = TRUE)
