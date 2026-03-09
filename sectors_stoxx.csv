@@ -1,0 +1,949 @@
+Symbol,TRBC Industry Name,TRBC Activity Name
+BOUY.PA,Construction & Engineering,Construction & Engineering (NEC)
+ABE.MC^H18,Highways & Rail Tracks,Highway Operators
+COB.L^A20,Aerospace & Defense,Aerospace & Defense (NEC)
+SIKA.S,Specialty Chemicals,Specialty Chemicals (NEC)
+GETP.PA,Highways & Rail Tracks,Highways & Rail Tracks (NEC)
+HRGV.L^C25,Investment Management & Fund Operators,Investment Management
+INGA.AS,Banks,Banks (NEC)
+BRBY.L,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC)
+ATCA.AS^A21,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+BAB.L,Aerospace & Defense,Aerospace & Defense (NEC)
+ISP.MI,Banks,Banks (NEC)
+EXOR.MI^I22,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+HSX.L,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+SCOR.PA,Reinsurance,Reinsurance (NEC)
+MWDP.PA,Investment Management & Fund Operators,Investment Management
+UPM.HE,Paper Products,Paper Products (NEC)
+DSMN.AS^E23,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+AENA.MC,Airport Operators & Services,Airport Operators & Services (NEC)
+EDP.LS,Electric Utilities,Electric Utilities (NEC)
+INVEb.ST,Investment Holding Companies,Investment Holding Companies (NEC)
+SJP.L,Investment Management & Fund Operators,Wealth Management
+AHT.L^C26,Business Support Services,Industrial Equipment Rental
+MFEB.MI,Broadcasting,Broadcasting (NEC)
+ANTO.L,Specialty Mining & Metals,Copper Ore Mining
+RHMG.DE,Aerospace & Defense,Aerospace & Defense (NEC)
+BNPP.PA,Banks,Banks (NEC)
+SPSN.S,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+DEMANT.CO,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+TECF.PA^A17,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+SIEGn.DE,Electrical Components & Equipment,Electrical Components & Equipment (NEC)
+MAP.MC,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+DELB.BR^G16,Food Retail & Distribution,Food Retail & Distribution (NEC)
+JYSK.CO,Banks,Banks (NEC)
+SNHG.DE^E22,Department Stores,Department Stores (NEC)
+TLIT.MI,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+OCI.AS,Agricultural Chemicals,Agricultural Chemicals (NEC)
+HSBA.L,Banks,Banks (NEC)
+TEL.OL,Wireless Telecommunications Services,Wireless Telecommunications Services (NEC)
+INVP.L,Diversified Investment Services,Diversified Investment Services
+BMPS.MI,Banks,Banks (NEC)
+PAGE.L,Employment Services,Executive Search Services
+BKOM.PR,Banks,Banks (NEC)
+BATS.L,Tobacco,Tobacco (NEC)
+SKYB.L^K18,Broadcasting,Broadcasting (NEC)
+SOGN.PA,Banks,Banks (NEC)
+CPIE.VI,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+OCDO.L,Department Stores,Internet & Mail Order Department Stores
+IWG.L,Real Estate Services,Office Real Estate Services
+TW.L,Homebuilding,Homebuilding (NEC)
+MDBI.MI,Banks,Banks (NEC)
+RUBF.PA,Oil & Gas Refining and Marketing,Petroleum Product Wholesale
+SDR.L,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+BAYGn.DE,Pharmaceuticals,Pharmaceuticals (NEC)
+GXIG.DE,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+US.MI^G24,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+HMSO.L,Commercial REITs,Commercial REITs (NEC)
+ICAG.L,Airlines,Airlines (NEC)
+DTEGn.DE,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+BWY.L,Homebuilding,Homebuilding (NEC)
+FRAS.L,Miscellaneous Specialty Retailers,Sporting Goods Stores
+FPE3_p.DE,Commodity Chemicals,Commodity Chemicals (NEC)
+IDSI.L^F25,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)"
+AKZO.AS,Commodity Chemicals,Paints & Coatings
+ELISA.HE,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+VIV.PA,Entertainment Production,Entertainment Production (NEC)
+PRY.MI,Electrical Components & Equipment,Wires & Cables
+CRDI.MI,Banks,Banks (NEC)
+BOLL.PA,Entertainment Production,Entertainment Production (NEC)
+PROX.BR,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+SHCS.L,Commercial REITs,Commercial REITs (NEC)
+BASFn.DE,Diversified Chemicals,Diversified Chemicals
+HEIO.AS,Brewers,Brewers (NEC)
+BLND.L,Diversified REITs,Diversified REITs
+CABK.MC,Banks,Banks (NEC)
+MICP.PA,Tires & Rubber Products,Tires & Rubber Products (NEC)
+FRES.L,Diversified Mining,Diversified Mining
+AIRF.PA,Airlines,Airlines (NEC)
+RTN.L^L23,Restaurants & Bars,Restaurants & Bars (NEC)
+ZODC.PA^C18,Aerospace & Defense,Aerospace & Defense (NEC)
+DNB.OL,Banks,Banks (NEC)
+ATLN.S^K17,Biotechnology & Medical Research,Bio Therapeutic Drugs
+ULE.L^H22,Aerospace & Defense,Aerospace & Defense (NEC)
+AMS.S,Semiconductors,Semiconductors (NEC)
+UMI.BR,Specialty Chemicals,Specialty Chemicals (NEC)
+WLSNc.AS,Professional Information Services,Professional Information Services (NEC)
+SY1G.DE,Specialty Chemicals,Specialty Chemicals (NEC)
+SVT.L,Water & Related Utilities,Water & Related Utilities (NEC)
+FRVIA.PA,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+TEPRF.PA,Business Support Services,Business Support Services (NEC)
+TL5.MC^E23,Broadcasting,Broadcasting (NEC)
+REL.L,IT Services & Consulting,IT Services & Consulting (NEC)
+PGHN.S,Investment Management & Fund Operators,Private Equity
+OREP.PA,Personal Products,Cosmetics & Perfumes
+OPM.PA,"Auto, Truck & Motorcycle Parts",Automotive Body Parts
+LISN.S,Food Processing,Chocolate & Confectionery
+PFC.L^J25,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+LDOF.MI,Aerospace & Defense,Aerospace & Defense (NEC)
+BMEB.L,Discount Stores,Discount Stores (NEC)
+ALFA.ST,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+KNEBV.HE,Heavy Electrical Equipment,Elevator & Conveying Equipment
+EKTAb.ST,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC)
+DKSH.S,Business Support Services,Business Support Services (NEC)
+SGC.L^F22,"Passenger Transportation, Ground & Sea",Commuting Services
+DB1Gn.DE,Financial & Commodity Market Operators & Service Providers,Financial & Commodity Market Operators & Service Providers (NEC)
+HNRGn.DE,Reinsurance,Property & Casualty Reinsurance
+AAAA.L^C21,Personal Services,Personal Services (NEC)
+AAL.L,Diversified Mining,Diversified Mining
+DANO.PA,Food Processing,Food Processing (NEC)
+HEIN.AS,Brewers,Brewers (NEC)
+ZURN.S,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+ALVG.DE,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+PST.MI,"Courier, Postal, Air Freight & Land-based Logistics",Courier Services
+BVI.PA,Business Support Services,Business Support Services (NEC)
+TPK.L,Home Improvement Products & Services Retailers,Builder Merchants
+CAPP.PA,IT Services & Consulting,IT Services & Consulting (NEC)
+RIO.L,Diversified Mining,Diversified Mining
+EUFI.PA,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+COFB.BR,Specialized REITs,Healthcare REITs
+POLYP.L^H23,Gold,Gold Mining
+INDUa.ST,Investment Holding Companies,Investment Holding Companies (NEC)
+VCTX.L,Specialty Chemicals,Specialty Chemicals (NEC)
+ITX.MC,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC)
+WG.L,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+KYGa.I,Food Processing,Food Processing (NEC)
+ADEN.S,Employment Services,Employment Services (NEC)
+RECI.MI,Pharmaceuticals,Pharmaceuticals (NEC)
+MT.AS,Iron & Steel,Iron & Steel (NEC)
+EURA.PA,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+GF.S,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+MGGT.L^I22,Aerospace & Defense,Aircraft Parts Manufacturing
+SYNN.S^A18,Agricultural Chemicals,Agricultural Chemicals (NEC)
+BVIC.L^A25,Non-Alcoholic Beverages,Non-Alcoholic Beverages (NEC)
+CAST.ST,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+VANTI.PA,Entertainment Production,Entertainment Production (NEC)
+CVO.PA,Commercial REITs,Commercial REITs (NEC)
+IHG.L,"Hotels, Motels & Cruise Lines","Hotels, Motels & Cruise Lines (NEC)"
+SGREN.MC^B23,Renewable Energy Equipment & Services,Wind Systems & Equipment
+PNDORA.CO,Apparel & Accessories,Jewelry
+ADML.L,Property & Casualty Insurance,Insurance - Automobile
+PSN.L,Homebuilding,Homebuilding (NEC)
+GEBN.S,Construction Supplies & Fixtures,Plumbing Fixtures & Fittings
+BOSN.AS^K22,Construction & Engineering,Construction & Engineering (NEC)
+TEL2b.ST,Wireless Telecommunications Services,Wireless Telecoms Service Providers
+MUVGn.DE,Reinsurance,Property & Casualty Reinsurance
+SABE.MC,Banks,Banks (NEC)
+CEZP.PR,Electric Utilities,Electric Utilities (NEC)
+SWEDa.ST,Banks,Banks (NEC)
+HEIG.DE,Construction Materials,Construction Materials (NEC)
+UBSG.S,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+ICAD.PA,Diversified REITs,Diversified REITs
+LLOY.L,Banks,Banks (NEC)
+AIRP.PA,Commodity Chemicals,Commodity Chemicals (NEC)
+CECG.DE,Computer & Electronics Retailers,Computer & Electronics Retailers (NEC)
+GSK.L,Pharmaceuticals,Pharmaceuticals (NEC)
+COLR.BR,Food Retail & Distribution,Food Retail & Distribution (NEC)
+BAES.L,Aerospace & Defense,Aerospace & Defense (NEC)
+POP.MC^F17,Banks,Banks (NEC)
+BOL.ST,Specialty Mining & Metals,Specialty Mining & Metals (NEC)
+UU.L,Water & Related Utilities,Water & Related Utilities (NEC)
+RXL.PA,Electrical Components & Equipment,Electric Equipment Wholesale
+NXT.L,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC)
+EMII.MI,Banks,Banks (NEC)
+TALK.L^C21,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+ORK.OL,Food Processing,Frozen Food Manufacturing
+INTUP.L^G20,Commercial REITs,Retail REITs
+AV.L,Life & Health Insurance,Life & Health Insurance (NEC)
+LEGn.DE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+CNAT.PA^G21,Diversified Investment Services,Diversified Investment Services
+ORRON.ST,Independent Power Producers,Renewable IPPs
+NWG.L,Banks,Banks (NEC)
+VOLVb.ST,Heavy Machinery & Vehicles,Heavy Trucks
+HUSQb.ST,"Appliances, Tools & Housewares","Appliances, Tools & Housewares (NEC)"
+SUBC.OL,Oil Related Services and Equipment,Oil Related Services
+LOGN.S,Computer Hardware,Computer Hardware (NEC)
+STAN.L,Banks,Banks (NEC)
+ALSO.PA,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+DLN.L,Commercial REITs,Commercial REITs (NEC)
+BICP.PA,Business Support Supplies,Business Support Supplies (NEC)
+TELIA.ST,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+IGG.L,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC)
+GALP.LS,Integrated Oil & Gas,Integrated Oil & Gas
+HLMA.L,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC)
+OMVV.VI,Integrated Oil & Gas,Integrated Oil & Gas
+SGSN.S,Business Support Services,Testing Laboratories
+ELE.MC,Electric Utilities,Electric Utilities (NEC)
+GNK.L^J19,Investment Holding Companies,Investment Holding Companies (NEC)
+IMB.L,Tobacco,Tobacco (NEC)
+HAYS.L,Employment Services,Executive Search Services
+GFCP.PA,Diversified REITs,Diversified REITs
+RACE.MI,Auto & Truck Manufacturers,Automobiles & Multi Utility Vehicles
+SAN.MC,Banks,Banks (NEC)
+ISA.L^L19,Wireless Telecommunications Services,Satellite Service Operators
+BKGH.L,Homebuilding,Homebuilding (NEC)
+MRCG.DE,Pharmaceuticals,Proprietary & Advanced Pharmaceuticals
+GIVN.S,Specialty Chemicals,Specialty Chemicals (NEC)
+TEF.MC,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+SDLF.L,Life & Health Insurance,Life & Health Insurance (NEC)
+GL9.I,Food Processing,Dairy Products
+BT.L,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+ROR.L,Industrial Machinery & Equipment,Fluid Power Cylinder & Actuators
+TSCO.L,Food Retail & Distribution,Food Retail & Distribution (NEC)
+DANSKE.CO,Banks,Banks (NEC)
+RPC.L^G19,Non-Paper Containers & Packaging,Plastic Containers & Packaging
+PERP.PA,Distillers & Wineries,Distillers & Wineries (NEC)
+HPOLb.ST,Specialty Chemicals,Advanced Polymers
+TLW.L,Oil & Gas Exploration and Production,Oil & Gas Exploration and Production (NEC)
+DGE.L,Distillers & Wineries,Distillers & Wineries (NEC)
+JUP.L,Investment Management & Fund Operators,Investment Management
+BALF.L,Construction & Engineering,Construction & Engineering (NEC)
+TDC.CO^F18,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+BTG.L^H19,Pharmaceuticals,Pharmaceuticals (NEC)
+PRTP.PA,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC)
+SBMO.AS,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+TRELb.ST,Industrial Machinery & Equipment,Industrial Components
+RKT.L,Household Products,Household Products (NEC)
+SAMPO.HE,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+SEVI.PA^B22,Environmental Services & Equipment,"Waste Management, Disposal & Recycling Services"
+AZN.L,Pharmaceuticals,Pharmaceuticals (NEC)
+GFS.L^E21,Business Support Services,Business Support Services (NEC)
+BION.S,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+CCH.L,Non-Alcoholic Beverages,Non-Alcoholic Beverages (NEC)
+GKN.L^E18,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+RWEG.DE,Multiline Utilities,Multiline Utilities
+ORAN.PA,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+NTGY.MC,Natural Gas Utilities,Natural Gas Utilities (NEC)
+FLS.CO,Mining Support Services & Equipment,Mining Support Services & Equipment (NEC)
+VWS.CO,Renewable Energy Equipment & Services,Wind Systems & Equipment
+LHAG.DE,Airlines,Airlines (NEC)
+BBVA.MC,Banks,Banks (NEC)
+AXAF.PA,Life & Health Insurance,Life & Health Insurance (NEC)
+CNA.L,Multiline Utilities,Multiline Utilities
+REP.MC,Oil & Gas Refining and Marketing,Oil & Gas Refining and Marketing (NEC)
+OERL.S,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+ESNT.L,Industrial Machinery & Equipment,Industrial Components
+ICAA.ST^A22,Food Retail & Distribution,Supermarkets & Convenience Stores
+COLOb.CO,"Medical Equipment, Supplies & Distribution",Medical Supplies
+CFR.S,Apparel & Accessories,Jewelry
+SATG_p.DE,Advanced Medical Equipment & Technology,Medical Diagnostic & Testing Equipment
+BOK.L^C18,Investment Holding Companies,Investment Holding Companies (NEC)
+BTRW.L,Homebuilding,Homebuilding (NEC)
+NHY.OL,Aluminum,Aluminum (NEC)
+IBE.MC,Electric Utilities,Electric Utilities (NEC)
+GBFG.DE,Construction & Engineering,Construction & Engineering (NEC)
+MERL.L^K19,Leisure & Recreation,Leisure & Recreation (NEC)
+REX.L^G16,Non-Paper Containers & Packaging,Non-Paper Containers & Packaging (NEC)
+FREG.DE,Healthcare Facilities & Services,Healthcare Facilities & Services (NEC)
+ASSAb.ST,Construction Supplies & Fixtures,Construction Supplies & Fixtures (NEC)
+VTYV.L,Homebuilding,Homebuilding (NEC)
+CNHI.MI^A24,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+FMEG.DE,Healthcare Facilities & Services,Healthcare Facilities & Services (NEC)
+PUBP.PA,Advertising & Marketing,Advertising & Marketing (NEC)
+ORNBV.HE,Pharmaceuticals,Pharmaceuticals (NEC)
+DCC.L,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+BAER.S,Banks,Private Banks
+NELES.HE^D22,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+ELUXb.ST,"Appliances, Tools & Housewares","Appliances, Tools & Housewares (NEC)"
+TENR.MI,Oil Related Services and Equipment,Oil Related Equipment
+UNPI.MI,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+SOON.S,"Medical Equipment, Supplies & Distribution",Medical Prosthetics
+SDFGn.DE,Agricultural Chemicals,Agricultural Chemicals (NEC)
+FRAG.DE,Airport Operators & Services,Airport Operators
+ULVR.L,Personal Products,Personal Products (NEC)
+KINDsdb.ST^K24,Casinos & Gaming,Casinos & Gaming (NEC)
+SKG.I^G24,Paper Packaging,Paper Packaging (NEC)
+BCP.LS,Banks,Banks (NEC)
+ADP.PA,Airport Operators & Services,Airport Operators & Services (NEC)
+BP.L,Oil & Gas Refining and Marketing,Oil & Gas Refining and Marketing (NEC)
+BPSI.MI,Banks,Banks (NEC)
+AEGN.AS,Life & Health Insurance,Life & Health Insurance (NEC)
+IMI.L,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+WRT1V.HE,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+INF.L,Business Support Services,Exhibition & Conference Services
+SIGSI.L^F21,Airport Operators & Services,Airport Operators & Services (NEC)
+BNZL.L,Diversified Industrial Goods Wholesale,Diversified Industrial Goods Wholesale
+LSEG.L,Financial & Commodity Market Operators & Service Providers,Financial & Commodity Market Operators & Service Providers (NEC)
+KINVb.ST,Investment Holding Companies,Investment Holding Companies (NEC)
+REDE.MC,Electric Utilities,Electric Utilities (NEC)
+MANG.DE^I21,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+RAND.AS,Employment Services,Employment Services (NEC)
+UBIP.PA,Software,Software (NEC)
+FLTRF.I^A24,Casinos & Gaming,Casinos & Gaming (NEC)
+TYRES.HE,Tires & Rubber Products,Tires & Rubber Products (NEC)
+KESKOB.HE,Food Retail & Distribution,Supermarkets & Convenience Stores
+ABDN.L,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+LAND.L,Diversified REITs,Diversified REITs
+DIDA.MC,Food Retail & Distribution,Food Retail & Distribution (NEC)
+TUIT.L^F24,Leisure & Recreation,Leisure & Recreation (NEC)
+KSP.I,Construction Supplies & Fixtures,Flooring & Interior Tile Manufacturers
+ERICb.ST,Communications & Networking,Communications & Networking (NEC)
+RSA.L^F21,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+GAMH.S,Investment Management & Fund Operators,Investment Management
+CLLN.L,Business Support Services,Business Support Services (NEC)
+LOIM.PA,Commercial REITs,Commercial REITs (NEC)
+FORTUM.HE,Electric Utilities,Electric Utilities (NEC)
+CONG.DE,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+VIFN.S^L22,Pharmaceuticals,Pharmaceuticals (NEC)
+SRCG.S^D21,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+AIR.PA,Aerospace & Defense,Commercial Aircraft Manufacturing
+IFXGn.DE,Semiconductors,Semiconductors (NEC)
+BARN.S,Food Processing,Chocolate & Confectionery
+CAGR.PA,Banks,Corporate Banks
+CSGN.S^F23,Banks,Banks (NEC)
+ARM.L^I16,IT Services & Consulting,IT Services & Consulting (NEC)
+AMEAS.HE^I19,Recreational Products,Sporting & Outdoor Goods
+DEQGn.DE,"Real Estate Rental, Development & Operations",Retail Real Estate Rental & Development
+EDF.PA^F23,Multiline Utilities,Multiline Utilities
+ATCOa.ST,Industrial Machinery & Equipment,Air & Gas Compressors
+QIA.DE,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+VOPA.AS,Oil & Gas Transportation Services,Oil & Gas Storage
+ONTEX.BR,Personal Products,Sanitary Products
+ZALG.DE,Online Services,Online Services (NEC)
+ABF.L,Food Processing,Food Processing (NEC)
+SGRO.L,Commercial REITs,Commercial REITs (NEC)
+WEIR.L,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+SAND.ST,Mining Support Services & Equipment,Mining Machinery & Equipment Manufacturing
+GBLB.BR,Investment Holding Companies,Investment Holding Companies (NEC)
+AUTOA.L,Online Services,Online Services (NEC)
+BMWG.DE,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC)
+SCHP.S,Heavy Electrical Equipment,Elevator & Conveying Equipment
+CBRO.L,Banks,Banks (NEC)
+SRG.MI,Oil & Gas Transportation Services,Natural Gas Pipeline Transportation
+TNET.BR^J23,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+RMV.L,Online Services,Online Services (NEC)
+INTRUM.ST,Corporate Financial Services,Corporate Financial Services (NEC)
+IPN.PA,Pharmaceuticals,Pharmaceuticals (NEC)
+HWDN.L,Construction Supplies & Fixtures,Kitchen Cabinets
+KNIN.S,"Courier, Postal, Air Freight & Land-based Logistics",Integrated Logistics Operators
+VANQ.L,Consumer Lending,Consumer Lending (NEC)
+HMb.ST,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC)
+VOWG_p.DE,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC)
+PTEC.L,Casinos & Gaming,Casinos & Gaming (NEC)
+EDEN.PA,Business Support Services,Transaction & Payment Services
+SASY.PA,Pharmaceuticals,Pharmaceuticals (NEC)
+AGGK.L^H21,Electrical Components & Equipment,"Heating, Ventilation & Air Conditioning Systems"
+ACKB.BR,Construction & Engineering,Construction & Engineering (NEC)
+WPG.L^A18,Business Support Services,Business Support Services (NEC)
+JE.L^C20,Online Services,Online Services (NEC)
+ALSYDB.CO,Banks,Banks (NEC)
+UBM.L^F18,Advertising & Marketing,Sales Promotions & Events Management
+FHZN.S,Airport Operators & Services,Airport Operators & Services (NEC)
+TCG.L^I19,Leisure & Recreation,Leisure & Recreation (NEC)
+CASP.PA,Food Retail & Distribution,Supermarkets & Convenience Stores
+DMGOa.L^A22,Consumer Publishing,Consumer Publishing (NEC)
+MRW.L^J21,Food Retail & Distribution,Food Retail & Distribution (NEC)
+BME.MC^I20,Financial & Commodity Market Operators & Service Providers,Securities & Commodity Exchanges
+ITAI.MI^J16,Construction Materials,Cement & Concrete Manufacturing
+ATL.MI^L22,Highways & Rail Tracks,Highway Operators
+WMH.L^D21,Casinos & Gaming,Casinos & Gaming (NEC)
+SRENH.S,Reinsurance,Reinsurance (NEC)
+SBRY.L,Food Retail & Distribution,Supermarkets & Convenience Stores
+AD.AS,Food Retail & Distribution,Food Retail & Distribution (NEC)
+BPOST.BR,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)"
+AKE.PA,Specialty Chemicals,Specialty Chemicals (NEC)
+RTO.L,Business Support Services,Pest Control Services
+CCL.L,"Hotels, Motels & Cruise Lines",Cruise Lines
+GRLS.MC,Pharmaceuticals,Biopharmaceuticals
+CHRH.CO^A24,Food Processing,Food Ingredients
+JM.ST,Homebuilding,Homebuilding (NEC)
+NESTE.HE,Oil & Gas Refining and Marketing,Oil & Gas Refining and Marketing (NEC)
+CBKG.DE,Banks,Banks (NEC)
+CNPP.PA^F22,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+AMFW.L^J17,Business Support Services,Management Consulting Services
+CARR.PA,Food Retail & Distribution,Supermarkets & Convenience Stores
+PNN.L,Water & Related Utilities,Water & Related Utilities (NEC)
+MONY.L,Online Services,Online Services (NEC)
+SEBF.PA,"Appliances, Tools & Housewares","Appliances, Tools & Housewares (NEC)"
+URW.PA,Commercial REITs,Commercial REITs (NEC)
+JCDX.PA,Advertising & Marketing,Advertising & Marketing (NEC)
+TEMN.S,Software,Software (NEC)
+INDV.L^G25,Pharmaceuticals,Pharmaceuticals (NEC)
+CURY.L,Computer & Electronics Retailers,Computer & Electronics Retailers (NEC)
+1COVG.DE^L25,Commodity Chemicals,Plastics
+VIE.PA,Multiline Utilities,Multiline Utilities
+SHB.L^C23,Commercial REITs,Commercial REITs (NEC)
+FNTGn.DE,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+PSPN.S,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+ACCP.PA,"Hotels, Motels & Cruise Lines","Hotels, Motels & Cruise Lines (NEC)"
+SAB.L^J16,Brewers,Brewers (NEC)
+VENDA.OL^J25,Consumer Publishing,Consumer Publishing (NEC)
+OPAr.AT,Casinos & Gaming,Casinos & Gaming (NEC)
+CLN.S,Specialty Chemicals,Specialty Chemicals (NEC)
+KPN.AS,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+LONN.S,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+WPP.L,Advertising & Marketing,Advertising & Marketing (NEC)
+ADSGn.DE,Footwear,Sports & Outdoor Footwear
+LVMH.PA,Apparel & Accessories,Apparel & Accessories (NEC)
+FERG.L,Construction Supplies & Fixtures,Construction Supplies & Fixtures Wholesale
+ATOS.PA,IT Services & Consulting,IT Services & Consulting (NEC)
+CPI.L,Business Support Services,Business Support Services (NEC)
+ZOT.MC^E22,Heavy Electrical Equipment,Elevator & Conveying Equipment
+ABBN.S,Heavy Electrical Equipment,Heavy Electrical Equipment (NEC)
+HUH1V.HE,Paper Packaging,Paper Packaging (NEC)
+NESN.S,Food Processing,Food Processing (NEC)
+MAERSKb.CO,Marine Freight & Logistics,Marine Freight & Logistics (NEC)
+KBC.BR,Banks,Banks (NEC)
+NDASE.ST,Banks,Banks (NEC)
+PMII.MI^A17,Banks,Banks (NEC)
+SPX.L,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+TNTE.AS^G16,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)"
+ABI.BR,Brewers,Brewers (NEC)
+DRX.L,Renewable Fuels,Renewable Fuels (NEC)
+ACS.MC,Construction & Engineering,Construction & Engineering (NEC)
+WTB.L,"Hotels, Motels & Cruise Lines",Hotels & Motels
+AM.PA,Aerospace & Defense,Commercial Aircraft Manufacturing
+BILL.ST,Paper Packaging,Paper Packaging (NEC)
+FABG.ST,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+ACBr.AT,Banks,Banks (NEC)
+SGE.L,Software,Enterprise Software
+CPRI.MI,Distillers & Wineries,Distilleries
+BEZG.L,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+MCRO.L^B23,Software,Software (NEC)
+PHG.AS,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC)
+UBI.MI^J20,Banks,Banks (NEC)
+AZMT.MI,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+TRN.MI,Electric Utilities,Electric Utilities (NEC)
+NCCb.ST,Construction & Engineering,Construction & Engineering (NEC)
+HRMS.PA,Apparel & Accessories,Handbags & Luggage
+SPRGn.DE^D20,Consumer Publishing,Consumer Publishing (NEC)
+III.L,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+MNDI.L,Paper Packaging,Paper Packaging (NEC)
+SGOB.PA,Construction Supplies & Fixtures,Construction Supplies & Fixtures (NEC)
+SCAb.ST,Forest & Wood Products,Forest & Wood Products (NEC)
+SMIN.L,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+INCH.L,"Auto, Truck & Motorcycle Parts",Auto & Truck Parts Wholesale
+PEUP.PA^A21,Auto & Truck Manufacturers,Automobiles & Multi Utility Vehicles
+TCFP.PA,Aerospace & Defense,Satellite Design & Manufacture
+ETL.PA,Wireless Telecommunications Services,Satellite Service Operators
+YAR.OL,Agricultural Chemicals,Fertilizers
+SMWH.L,Miscellaneous Specialty Retailers,Book & Magazine Retailers
+SGEF.PA,Construction & Engineering,Construction & Engineering (NEC)
+STMN.S,"Medical Equipment, Supplies & Distribution",Medical Prosthetics
+GTO.AS^E19,Software,Software (NEC)
+LRE.L,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+MOWI.OL,Food Processing,Seafood Product Preparation & Packaging
+FOUG.PA,Construction & Engineering,Construction & Engineering (NEC)
+FGP.L,"Passenger Transportation, Ground & Sea",Commuting Services
+RRTL.DE,Broadcasting,Television Broadcasting
+ARLn.DE^K23,Banks,Banks (NEC)
+SKFb.ST,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+GETIb.ST,"Medical Equipment, Supplies & Distribution",Medical Equipment
+UNc.AS^G19,Personal Products,Personal Products (NEC)
+O2Dn.DE^D24,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+STLAM.MI,Auto & Truck Manufacturers,Automobiles & Multi Utility Vehicles
+STAGn.DE^K18,Pharmaceuticals,Generic Pharmaceuticals
+DSV.CO,"Courier, Postal, Air Freight & Land-based Logistics",Integrated Logistics Operators
+ESLX.PA,"Medical Equipment, Supplies & Distribution","Glasses, Spectacles & Contact Lenses"
+EXPN.L,Professional Information Services,Financial Information Providers
+TTEF.PA,Integrated Oil & Gas,Integrated Oil & Gas
+SOBIV.ST,Pharmaceuticals,Biopharmaceuticals
+MTXGn.DE,Aerospace & Defense,Aircraft Parts Manufacturing
+DAST.PA,Software,Software (NEC)
+HBANC.S,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+VIS.MC,Non-Paper Containers & Packaging,Non-Paper Containers & Packaging (NEC)
+ICGIN.L,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+QQ.L,Aerospace & Defense,Aerospace & Defense (NEC)
+AMA.MC,IT Services & Consulting,IT Services & Consulting (NEC)
+EMG.L,Investment Management & Fund Operators,Investment Management
+RR.L,Aerospace & Defense,Aerospace & Defense (NEC)
+GLEN.L,Diversified Mining,Diversified Mining
+PARG.S^K20,Investment Holding Companies,Investment Holding Companies (NEC)
+SCHN.PA,Electrical Components & Equipment,Electrical Components & Equipment (NEC)
+SKAb.ST,Construction & Engineering,Construction & Engineering (NEC)
+BKT.MC,Banks,Banks (NEC)
+BIRG.I,Banks,Banks (NEC)
+DUEG.DE,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+EZJ.L,Airlines,Airlines (NEC)
+OMU.L,Life & Health Insurance,Life & Health Insurance (NEC)
+SECUb.ST,Business Support Services,Security Services
+HIK.L,Pharmaceuticals,Pharmaceuticals (NEC)
+RELN.AS^I18,Investment Holding Companies,Investment Holding Companies (NEC)
+DLGD.L^G25,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+DOKA.S,Communications & Networking,Security & Surveillance
+SN.L,"Medical Equipment, Supplies & Distribution",Medical Devices & Implants
+LEGD.PA,Electrical Components & Equipment,Electrical Components & Equipment (NEC)
+ATKW.L^G17,Construction & Engineering,Construction & Engineering (NEC)
+HNKG_p.DE,Specialty Chemicals,Adhesive & Epoxy
+BOSSn.DE,Apparel & Accessories,Apparel & Accessories (NEC)
+BKIA.MC^C21,Banks,Banks (NEC)
+LAGA.PA,Consumer Publishing,Consumer Publishing (NEC)
+WDIG.DE^A21,Business Support Services,Transaction & Payment Services
+ERST.VI,Banks,Banks (NEC)
+MRL.MC,Commercial REITs,Commercial REITs (NEC)
+LGEN.L,Life & Health Insurance,Life & Health Insurance (NEC)
+ASMI.AS,Semiconductor Equipment & Testing,Semiconductor Machinery Manufacturing
+SXS.L^L25,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC)
+STERV.HE,Non-Paper Containers & Packaging,Non-Paper Containers & Packaging (NEC)
+SWMA.ST^A23,Tobacco,Chewing Tobacco Products
+ASML.AS,Semiconductor Equipment & Testing,Semiconductor Equipment & Testing (NEC)
+TATE.L,Food Processing,Food Ingredients
+G1AG.DE,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+LXSG.DE,Diversified Chemicals,Diversified Chemicals
+DLGS.DE^I21,Semiconductors,Semiconductors (NEC)
+EONGn.DE,Multiline Utilities,Multiline Utilities
+SHBa.ST,Banks,Banks (NEC)
+ITRK.L,Business Support Services,Business Support Services (NEC)
+HOLN.S,Construction Materials,Cement & Concrete Manufacturing
+SEBa.ST,Banks,Banks (NEC)
+UCB.BR,Pharmaceuticals,Biopharmaceuticals
+MKS.L,Food Retail & Distribution,Food Retail & Distribution (NEC)
+SHP.L^A19,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+EQNR.OL,Integrated Oil & Gas,Integrated Oil & Gas
+GPEG.L,Commercial REITs,Commercial REITs (NEC)
+PSMGn.DE,Broadcasting,Broadcasting (NEC)
+BNRGn.DE,Diversified Chemicals,Diversified Chemicals
+CRDA.L,Specialty Chemicals,Specialty Chemicals (NEC)
+PRU.L,Life & Health Insurance,Life & Health Insurance (NEC)
+ENX.PA,Financial & Commodity Market Operators & Service Providers,Financial & Commodity Market Operators & Service Providers (NEC)
+CLNX.MC,Wireless Telecommunications Services,Wireless Telecoms Service Providers
+SLHN.S,Life & Health Insurance,Life & Health Insurance (NEC)
+EXHO.PA,Restaurants & Bars,Restaurants & Bars (NEC)
+STMMI.MI,Semiconductors,Semiconductors (NEC)
+TKAG.DE,Iron & Steel,Iron & Steel (NEC)
+NXGN.L^K18,Investment Holding Companies,Shell Companies
+MEDAa.ST^H16,Pharmaceuticals,Pharmaceuticals (NEC)
+SHEL.AS,Integrated Oil & Gas,Integrated Oil & Gas
+GASI.MI,Life & Health Insurance,Life & Health Insurance (NEC)
+TRYG.CO,Property & Casualty Insurance,Insurance - Automobile
+ARYN.S,Food Processing,Bread & Bakery Product Manufacturing
+IMTP.PA,Specialty Mining & Metals,Specialty Mining & Metals (NEC)
+JMT.LS,Food Retail & Distribution,Supermarkets & Convenience Stores
+RBIV.VI,Banks,Banks (NEC)
+VLOF.PA,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+ISS.CO,Business Support Services,Business Support Services (NEC)
+NOKIA.HE,Communications & Networking,Communications & Networking (NEC)
+CRH.I^I23,Construction Materials,Construction Materials (NEC)
+VOD.L,Wireless Telecommunications Services,Wireless Telecommunications Services (NEC)
+ENEI.MI,Electric Utilities,Electric Utilities (NEC)
+NIBEb.ST,Electrical Components & Equipment,"Heating, Ventilation & Air Conditioning Systems"
+JMAT.L,Specialty Chemicals,Specialty Chemicals (NEC)
+VOES.VI,Iron & Steel,Iron & Steel (NEC)
+RENA.PA,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC)
+DHLn.DE,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)"
+GFTU_u.L,Construction Supplies & Fixtures,Construction Supplies & Fixtures Wholesale
+PSHG_p.DE,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC)
+PSON.L,Consumer Publishing,Consumer Publishing (NEC)
+LUX.MI^C19,Miscellaneous Specialty Retailers,Optical Goods Stores
+DIOR.PA,Apparel & Accessories,Apparel & Accessories (NEC)
+BALN.S^L25,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+ITV.L,Broadcasting,Broadcasting (NEC)
+CARLb.CO,Brewers,Brewers (NEC)
+ENGIE.PA,Multiline Utilities,Multiline Utilities
+NOVN.S,Pharmaceuticals,Pharmaceuticals (NEC)
+ADN.L^H17,Diversified Investment Services,Diversified Investment Services
+NSISb.CO,Specialty Chemicals,Industrial Biotechnology Chemicals
+AVOL.S,Miscellaneous Specialty Retailers,Miscellaneous Specialty Retailers (NEC)
+ILD.PA^J21,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+EMSN.S,Specialty Chemicals,Specialty Chemicals (NEC)
+UHR.S,Apparel & Accessories,Watches
+SMDS.L^B25,Paper Packaging,Paper Packaging (NEC)
+OSRn.DE^G21,Electrical Components & Equipment,Lighting Equipment
+SCMN.S,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+HGGH.L^E17,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+KGX.DE,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+OTEr.AT,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+BRSN.L^I17,Business Support Services,Business Support Services (NEC)
+BHPB.L^A22,Diversified Mining,Diversified Mining
+SFRGR.PA^J17,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+GMAB.CO,Biotechnology & Medical Research,Bio Therapeutic Drugs
+SAF.PA,Aerospace & Defense,Aircraft Parts Manufacturing
+SAPG.DE,Software,Enterprise Software
+WEHA.AS,Commercial REITs,Retail REITs
+BEIG.DE,Personal Products,Personal Products (NEC)
+BAMI.MI,Banks,Banks (NEC)
+RRS.L^A19,Gold,Gold (NEC)
+SESFd.PA,Wireless Telecommunications Services,Satellite Service Operators
+EMEIS.PA,Healthcare Facilities & Services,Residential & Long-Term Care
+GJFG.OL,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+GN.CO,Household Electronics,Household Electronics (NEC)
+ENAG.MC,Oil & Gas Transportation Services,Oil & Gas Transportation Services (NEC)
+CPG.L,Restaurants & Bars,Restaurants & Bars (NEC)
+DWNG.DE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+ROG.S,Pharmaceuticals,Pharmaceuticals (NEC)
+INGC.PA^K20,Business Support Services,Transaction & Payment Services
+NN.AS,Life & Health Insurance,Life Insurance
+SOLB.BR,Diversified Chemicals,Diversified Chemicals
+FER.MC,Construction & Engineering,Construction & Engineering (NEC)
+SSE.L,Electric Utilities,Electric Utilities (NEC)
+EURBr.AT,Banks,Banks (NEC)
+PTNL.AS,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)"
+AGES.BR,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+AALB.AS,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+DBKGn.DE,Banks,Banks (NEC)
+BARC.L,Banks,Banks (NEC)
+DOM.L,Restaurants & Bars,Quick Service Restaurants
+HEXAb.ST,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC)
+FINGb.ST,Electronic Equipment & Parts,Biometric Products
+TGS.OL,Oil Related Services and Equipment,Oil Related Services
+NOVOb.CO,Pharmaceuticals,Pharmaceuticals (NEC)
+KGF.L,Home Improvement Products & Services Retailers,Home Improvement Products & Services Retailers (NEC)
+EVKn.DE,Specialty Chemicals,Specialty Chemicals (NEC)
+ELM.L,Specialty Chemicals,Specialty Chemicals (NEC)
+VNAn.DE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+UTDI.DE,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+ANDR.VI,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+RYA.I,Airlines,Airlines (NEC)
+TOP.CO^J24,Property & Casualty Insurance,Property & Casualty Insurance (NEC)
+LING.DE^D19,Commodity Chemicals,Industrial Gases
+MBGn.DE,Auto & Truck Manufacturers,Auto & Truck Manufacturers (NEC)
+NG.L,Multiline Utilities,Multiline Utilities
+ENI.MI,Integrated Oil & Gas,Integrated Oil & Gas
+ELIOR.PA,Restaurants & Bars,Restaurants & Bars (NEC)
+HOTG.DE,Construction & Engineering,Construction & Engineering (NEC)
+VMUK.L^J24,Banks,Banks (NEC)
+SAABb.ST,Aerospace & Defense,Aerospace & Defense (NEC)
+SPMI.MI,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+ABNd.AS,Banks,Banks (NEC)
+WBSV.VI,Construction Materials,Construction Materials (NEC)
+MDCM.L^E23,Healthcare Facilities & Services,"Hospitals, Clinics & Primary Care Services"
+ENT.L,Casinos & Gaming,Casinos & Gaming (NEC)
+A2.MI,Electric Utilities,Electric Utilities (NEC)
+SAGA.L,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+BALDb.ST,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+KU2G.DE^K22,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+DB11.DE^D17,Financial & Commodity Market Operators & Service Providers,Financial & Commodity Market Operators & Service Providers (NEC)
+LUNDb.ST,Investment Holding Companies,Investment Holding Companies (NEC)
+LUN.CO^F22,Pharmaceuticals,Pharmaceuticals Wholesale
+ORSTED.CO,Electric Utilities,Electric Utilities (NEC)
+SHA_p.DE^J24,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+CEY.L^K24,Gold,Gold Mining
+MONC.MI,Apparel & Accessories,Apparel & Accessories (NEC)
+PAYS.L^L17,Business Support Services,Transaction & Payment Services
+IMCD.AS,Specialty Chemicals,Specialty Chemicals Wholesale
+UN0k.DE,Multiline Utilities,Multiline Utilities
+MRON.L,Aerospace & Defense,Aerospace & Defense (NEC)
+SOWGn.DE^B24,Software,Enterprise Software
+IG.MI,Natural Gas Utilities,Natural Gas Distribution
+NETS.CO^B18,Business Support Services,Transaction & Payment Services
+CMBN.S,Banks,Retail & Mortgage Banks
+STB.OL,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+IGY.DE^F20,Electric Utilities,Electric Utilities (NEC)
+GLPG.AS,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+DLL.AS^F17,Life & Health Insurance,Life Insurance
+BWOA.VI^K18,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+SIM.CO^J23,Financial Technology (Fintech),Business to Consumer
+OUT1V.HE,Iron & Steel,Iron & Steel (NEC)
+FTI.PA^B22,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+FBK.MI,Banks,Banks (NEC)
+SSPG.L,Restaurants & Bars,Commercial Food Services
+RS1R.L,Industrial Machinery & Equipment,Industrial Machinery & Equipment Wholesale
+G24n.DE,Online Services,Online Services (NEC)
+TCAPI.L,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC)
+MTRO.L,Banks,Banks (NEC)
+LCL.L^C18,Business Support Services,Management Consulting Services
+AMUN.PA,Investment Management & Fund Operators,Investment Management
+LIGHT.AS,Construction Supplies & Fixtures,Lighting Fixtures
+CTEC.L,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+ESSITYb.ST,Personal Products,Personal Products (NEC)
+LOOMIS.ST,Business Support Services,Security Services
+SOPR.PA,IT Services & Consulting,IT Services & Consulting (NEC)
+BIOX.PA,"Medical Equipment, Supplies & Distribution",Laboratory Diagnostic & Testing Substances
+B4B.DE^D25,Food Retail & Distribution,Food Retail & Distribution (NEC)
+UDG.L^H21,Healthcare Facilities & Services,Healthcare Facilities & Services (NEC)
+SPIE.PA,Construction & Engineering,Construction & Engineering (NEC)
+NAFG.DE,Specialty Mining & Metals,Nonferrous Metal Processing
+1U1.DE,Wireless Telecommunications Services,Wireless Telecoms Service Providers
+ASRNL.AS,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+AIBG.I,Banks,Banks (NEC)
+ELIS.PA,Business Support Services,Cleaning Services
+AT1.DE,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+WAFGn.DE,Semiconductors,Semiconductors (NEC)
+NMC.L^D20,Healthcare Facilities & Services,Healthcare Facilities & Services (NEC)
+PIRC.MI,Tires & Rubber Products,Tire & Tube Manufacturers
+RCOP.PA,Distillers & Wineries,Distillers & Wineries (NEC)
+BESI.AS,Semiconductor Equipment & Testing,Semiconductor Machinery Manufacturing
+KCRA.HE,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+DHER.DE,Online Services,Online Services (NEC)
+HSV.L^A23,Construction & Engineering,Construction & Engineering (NEC)
+VACN.S,Industrial Machinery & Equipment,Industrial Valve Manufacturing
+ALTT.PA^D20,Business Support Services,Business Support Services (NEC)
+LIN1.DE^J18,Commodity Chemicals,Industrial Gases
+WCHG.DE,Specialty Chemicals,Advanced Polymers
+ABLX.BR^F18,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+DOMETIC.ST,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+AKRBP.OL,Oil & Gas Exploration and Production,Oil & Gas Exploration and Production (NEC)
+HLE.DE,"Auto, Truck & Motorcycle Parts","Auto, Truck & Motorcycle Parts (NEC)"
+COL.MC,Commercial REITs,Office REITs
+AMBUb.CO,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+DPH.L^A24,Pharmaceuticals,Veterinary Drugs
+BUCN.S,Heavy Machinery & Vehicles,Agricultural Machinery
+GLJn.DE,Corporate Financial Services,Commercial Leasing
+AVV.L^A23,IT Services & Consulting,IT Services & Consulting (NEC)
+KAZ.L^E21,Specialty Mining & Metals,Copper Ore Mining
+CINE.L^H23,Leisure & Recreation,Movie Theaters & Movie Products
+TEGG.DE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+QLT.L,Investment Management & Fund Operators,Investment Management
+MORG.DE^H24,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+TECN.S,Office Equipment,Scientific & Precision Equipment
+EVRE.L,Iron & Steel,"Iron, Steel Mills & Foundries"
+ROCKb.CO,Construction Materials,Construction Materials (NEC)
+SHLG.DE,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC)
+RBREW.CO,Brewers,Brewers (NEC)
+ARGX.BR,Biotechnology & Medical Research,Bio Therapeutic Drugs
+LTEN.PA,IT Services & Consulting,IT Services & Consulting (NEC)
+EPIRa.ST,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+DIAS.MI,"Medical Equipment, Supplies & Distribution",Laboratory Diagnostic & Testing Substances
+AAK.ST,Food Processing,"Starch, Vegetable Fat & Oil Manufacturing"
+BC8G.DE,IT Services & Consulting,IT Services & Consulting (NEC)
+PKO.WA,Banks,Banks (NEC)
+ADYEN.AS,Financial Technology (Fintech),Financial Technology (Fintech) (NEC)
+PEO.WA,Banks,Banks (NEC)
+SOF.BR,Investment Holding Companies,Investment Holding Companies (NEC)
+VALMT.HE,Industrial Machinery & Equipment,Industrial Machinery
+AFXG.DE,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC)
+LPPP.WA,Apparel & Accessories Retailers,Apparel & Accessories Retailers (NEC)
+PZU.WA,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+EVTG.DE,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+SPL1.WA,Banks,Banks (NEC)
+STDM.PA,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+CDR.WA,Software,Application Software
+UTG.L,Residential REITs,Residential REITs
+BBOXT.L,Commercial REITs,Industrial REITs
+NEKG.DE,Software,Enterprise Software
+GALE.S,Pharmaceuticals,Pharmaceuticals Wholesale
+PUMG.DE,Footwear,Footwear (NEC)
+PKN.WA,Oil & Gas Refining and Marketing,Petroleum Refining
+KGH.WA,Specialty Mining & Metals,Copper Ore Mining
+JLT.L^D19,Multiline Insurance & Brokers,Insurance Brokers
+LIN.DE,Commodity Chemicals,Industrial Gases
+VERB.VI,Electric Utilities,Electric Utilities (NEC)
+SALM.OL,Food Processing,Seafood Product Preparation & Packaging
+PGN.WA^K22,Integrated Oil & Gas,Integrated Oil & Gas
+ITPG.MI,Industrial Machinery & Equipment,Pump & Pumping Equipment
+TOM.OL,Industrial Machinery & Equipment,Industrial Machinery
+KBX.DE,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+HRA.MI,Multiline Utilities,Multiline Utilities
+WLN.PA,Financial Technology (Fintech),Financial Technology (Fintech) (NEC)
+ALCC.S,"Medical Equipment, Supplies & Distribution","Glasses, Spectacles & Contact Lenses"
+WDPP.BR,Commercial REITs,Industrial REITs
+AMPF.MI,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+UNA.AS^K20,Personal Products,Personal Products (NEC)
+BEAN.S,Industrial Machinery & Equipment,Fluid Power Cylinder & Actuators
+JD.L,Apparel & Accessories Retailers,Sports & Outdoors Retailers
+GRG.L,Restaurants & Bars,Restaurants & Bars (NEC)
+GYC.DE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+ASHM.L,Investment Management & Fund Operators,Investment Management
+INDT.ST,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+ALLN.S,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+NEXII.MI,Business Support Services,Transaction & Payment Services
+AOXG.DE^E25,"Real Estate Rental, Development & Operations",Office Real Estate Rental & Development
+ELI.BR,Electric Utilities,Electric Utilities (NEC)
+EVDG.DE,Online Services,Online Services (NEC)
+AOO.BR,Specialized REITs,Healthcare REITs
+MNG.L,Life & Health Insurance,Life Insurance
+PRX.AS,Online Services,Online Services (NEC)
+KOJAMO.HE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+EVOG.ST,Casinos & Gaming,Casinos & Gaming (NEC)
+EQTAB.ST,Investment Management & Fund Operators,Private Equity
+NETW.L^I24,Investment Holding Companies,Investment Holding Companies (NEC)
+HFGG.DE,Food Retail & Distribution,Food Retail & Distribution (NEC)
+SIGNC.S,Paper Packaging,Paper Packaging (NEC)
+AVST.L^I22,Business Support Services,Business Support Services (NEC)
+HOLMb.ST,Paper Products,Paper Products (NEC)
+BAKKA.OL,Fishing & Farming,Aquaculture
+DPLM.L,Industrial Machinery & Equipment,Industrial Machinery & Equipment Wholesale
+ENTRA.OL,"Real Estate Rental, Development & Operations",Office Real Estate Rental & Development
+RAAG.DE,"Appliances, Tools & Housewares",Kitchen Appliances
+ANA.MC,Construction & Engineering,Construction & Engineering (NEC)
+SBBb.ST,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+RDW.L^H24,Homebuilding,Homebuilding (NEC)
+TMV.DE,Software,Software (NEC)
+WIHL.ST,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+GAW.L,Toys & Children's Products,Toys & Children's Products (NEC)
+BAWG.VI,Banks,Banks (NEC)
+TRNT.L,Leisure & Recreation,Travel Agents
+GNS.L,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+FDJU.PA,Casinos & Gaming,Casinos & Gaming (NEC)
+CSPC.L^K22,Homebuilding,Homebuilding (NEC)
+SINCH.ST,IT Services & Consulting,Cloud Computing Services
+ADDTb.ST,Diversified Industrial Goods Wholesale,Diversified Industrial Goods Wholesale
+COKG.DE,IT Services & Consulting,IT Services & Consulting (NEC)
+ADEA.OL^F24,Online Services,Online Services (NEC)
+LIFCOb.ST,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+AXFO.ST,Food Retail & Distribution,Supermarkets & Convenience Stores
+CWK.L,Food Processing,Food Processing (NEC)
+THULE.ST,"Auto, Truck & Motorcycle Parts",Automotive Accessories
+PHP.L,Specialized REITs,Healthcare REITs
+WALLb.ST,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+BCVN.S,Banks,Banks (NEC)
+GRI.L,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+NETCG.CO,IT Services & Consulting,IT Services & Consulting (NEC)
+AGRP.L^J25,Specialized REITs,Healthcare REITs
+IDIA.S,Biotechnology & Medical Research,Bio Therapeutic Drugs
+LATOb.ST,Investment Holding Companies,Investment Holding Companies (NEC)
+SWECb.ST,Construction & Engineering,Civil Engineers & Architects
+METSO.HE,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+NEL.OL,Renewable Energy Equipment & Services,Renewable Energy Equipment & Services (NEC)
+AFRY.ST,Business Support Services,Business Support Services (NEC)
+DNP.WA,Food Retail & Distribution,Supermarkets & Convenience Stores
+LMPL.L,Diversified REITs,Diversified REITs
+VAR1.DE^C25,Electrical Components & Equipment,Batteries & Uninterruptable Power Supplies
+JDEP.AS,Food Processing,Coffee & Tea
+SRAIL.S,Heavy Machinery & Vehicles,Locomotive Engines & Rolling Stock
+ENR1n.DE,Renewable Energy Equipment & Services,Renewable Energy Equipment & Services (NEC)
+CORB.AS,Specialty Chemicals,Specialty Chemicals (NEC)
+INWT.MI,Integrated Telecommunications Services,Telecommunications Network Infrastructure
+BEIJb.ST,Electrical Components & Equipment,"Heating, Ventilation & Air Conditioning Systems"
+SWON.S,IT Services & Consulting,IT Services & Consulting (NEC)
+SOIT.PA,Semiconductors,Semiconductors (NEC)
+ADJ.DE,"Real Estate Rental, Development & Operations",Residential Real Estate Rental & Development
+EDPR.LS,Independent Power Producers,Renewable IPPs
+SFZN.S,Pharmaceuticals,Pharmaceuticals (NEC)
+DOCM.S,Drug Retailers,Drug Retailers (NEC)
+SCATC.OL,Independent Power Producers,Renewable IPPs
+SAGAb.ST,"Real Estate Rental, Development & Operations",Industrial Real Estate Rental & Development
+THG.L,Online Services,E-commerce & Auction Services
+ALEP.WA,Department Stores,Internet & Mail Order Department Stores
+VPLAYb.ST,Broadcasting,Broadcasting (NEC)
+INPST.AS,"Courier, Postal, Air Freight & Land-based Logistics","Courier, Postal, Air Freight & Land-based Logistics (NEC)"
+WIZZ.L,Airlines,Airlines (NEC)
+RDC.DE,Drug Retailers,Drug Retailers (NEC)
+AVANZ.ST,Investment Banking & Brokerage Services,Investment Banking
+NOD.OL,Semiconductors,Integrated Circuits
+SCTS.L,IT Services & Consulting,IT Services & Consulting (NEC)
+FUTR.L,Consumer Publishing,Magazine Publishing
+ROO.L^J25,Online Services,Online Services (NEC)
+REY.MI,IT Services & Consulting,Technology Consulting & Outsourcing Services
+SFOR.L,Advertising & Marketing,Advertising & Marketing (NEC)
+DOCS.L,Footwear,Footwear (NEC)
+AG1G.DE,Online Services,Online Services (NEC)
+ALLFG.AS,Financial Technology (Fintech),Business to Business
+FLUI.MC,Recreational Products,Sporting & Outdoor Goods
+ALIFb.ST,"Medical Equipment, Supplies & Distribution","Medical Equipment, Supplies & Distribution (NEC)"
+JXN.N,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+BANB.S,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+QTCOM.HE,Software,Programming Software & Testing Tools
+BYG.L,Specialized REITs,Self-Storage REITs
+WISEa.L,Business Support Services,Transaction & Payment Services
+NDAFI.HE,Banks,Banks (NEC)
+UMG.AS,Entertainment Production,"Music, Music Video Production & Distribution"
+VITR.ST,"Medical Equipment, Supplies & Distribution",Laboratory Diagnostic & Testing Substances
+ARDS.AS,Construction & Engineering,Construction & Engineering (NEC)
+BPTB.L,Investment Management & Fund Operators,Private Equity
+ZO1G.DE^A22,Miscellaneous Specialty Retailers,Pet & Pet Supplies Retailers
+DARK.L^J24,Software,Security Software
+DTGGe.DE,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+INRN.S,Heavy Electrical Equipment,Elevator & Conveying Equipment
+RILBA.CO,Banks,Corporate Banks
+STORb.ST,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+MIPS.ST,Recreational Products,Sporting & Outdoor Goods
+WOSG.L,Apparel & Accessories Retailers,Jewelry & Watch Retailers
+SECTb.ST,Advanced Medical Equipment & Technology,Medical Software & Technology Services
+IETB.BR,"Auto Vehicles, Parts & Service Retailers","Auto Vehicles, Parts & Service Retailers (NEC)"
+ALKb.CO,Pharmaceuticals,Pharmaceuticals (NEC)
+SAFE.L,Specialized REITs,Self-Storage REITs
+ONT.L,Advanced Medical Equipment & Technology,Advanced Medical Equipment & Technology (NEC)
+AUTO.OL,Industrial Machinery & Equipment,Commercial Equipment
+VOLCARb.ST,Auto & Truck Manufacturers,Auto & Truck Wholesale
+IVG.MI,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+OSBO.L,Banks,Retail & Mortgage Banks
+VTWRn.DE^E23,Construction & Engineering,Telecommunication Construction
+SSABb.ST,Iron & Steel,Iron & Steel (NEC)
+KOG.OL,Aerospace & Defense,Aerospace & Defense (NEC)
+NEXS.PA,Electrical Components & Equipment,Wires & Cables
+SAVE.ST,Banks,Banks (NEC)
+GTT.PA,Oil & Gas Transportation Services,Oil & Gas Transportation Services (NEC)
+FNOX.ST^G25,Software,Enterprise Software
+HBR.L,Oil & Gas Exploration and Production,Oil & Gas Exploration and Production (NEC)
+AIXGn.DE,Semiconductor Equipment & Testing,Semiconductor Equipment & Testing (NEC)
+HLN.L,Pharmaceuticals,Pharmaceuticals (NEC)
+LISP.S,Food Processing,Chocolate & Confectionery
+LXIL.L^C24,Diversified REITs,Diversified REITs
+BAVA.CO,Pharmaceuticals,Pharmaceuticals (NEC)
+EXOR.AS,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+INDUc.ST,Investment Holding Companies,Investment Holding Companies (NEC)
+ANE.MC,Electric Utilities,Alternative Electric Utilities
+BKWB.S,Electric Utilities,Electric Utilities (NEC)
+ECVG.DE^B25,Investment Management & Fund Operators,Investment Management & Fund Operators (NEC)
+LOTB.BR,Food Processing,Bread & Bakery Product Manufacturing
+ALFEN.AS,Heavy Electrical Equipment,Electrical Transmission & Grid Equipment
+SRP.L,Business Support Services,Business Support Services (NEC)
+TIETO.HE,IT Services & Consulting,IT Services & Consulting (NEC)
+CCC.L,IT Services & Consulting,IT Services & Consulting (NEC)
+HTRO.ST,Electrical Components & Equipment,Electrical Components & Equipment (NEC)
+ENOG.L,Oil & Gas Exploration and Production,Oil Exploration & Production - Offshore
+VRLA.PA,Non-Paper Containers & Packaging,Glass Containers & Packaging
+TLXGn.DE,Multiline Insurance & Brokers,Multiline Insurance & Brokers (NEC)
+P911_p.DE,Auto & Truck Manufacturers,Automobiles & Multi Utility Vehicles
+CMBT.BR,Oil & Gas Transportation Services,Oil & Gas Transportation Services (NEC)
+BCU.MI,Apparel & Accessories,Luxury Clothing
+FRO.OL,Oil & Gas Transportation Services,Sea-Borne Tankers
+TE.PA,Oil Related Services and Equipment,Oil Related Services
+VID.MC,Non-Paper Containers & Packaging,Glass Containers & Packaging
+EMBRACb.ST,Software,Application Software
+DSFIR.AS,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+DWL.L^B26,"Auto, Truck & Motorcycle Parts",Automotive Accessories
+SFSN.S,Industrial Machinery & Equipment,Industrial Components
+NKT.CO,Electrical Components & Equipment,Electrical Components & Equipment (NEC)
+LAGRb.ST,Consumer Goods Conglomerates,Consumer Goods Conglomerates
+AZE.BR,Diversified Industrial Goods Wholesale,Diversified Industrial Goods Wholesale
+CRH.L,Construction Materials,Construction Materials (NEC)
+ACLN.S,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+BZU.MI,Construction Materials,Cement & Concrete Manufacturing
+SDZ.S,Pharmaceuticals,Pharmaceuticals (NEC)
+SQN.S,Financial & Commodity Market Operators & Service Providers,Financial & Commodity Market Operators & Service Providers (NEC)
+VLLP.PA,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+ZELA.CO,Biotechnology & Medical Research,Bio Therapeutic Drugs
+FLTRF.L,Casinos & Gaming,Casinos & Gaming (NEC)
+SYENS.BR,Diversified Chemicals,Diversified Chemicals
+HEM.ST,Online Services,Online Services (NEC)
+IFCN.S,Industrial Machinery & Equipment,Testing & Measuring Equipment
+ISOS.PA,Advertising & Marketing,Advertising & Marketing (NEC)
+HIAB.HE,Heavy Machinery & Vehicles,Heavy Machinery & Vehicles (NEC)
+COTNE.S,Electronic Equipment & Parts,Electronic Equipment & Parts (NEC)
+KEMIRA.HE,Diversified Chemicals,Diversified Chemicals
+MTRS.ST,Electrical Components & Equipment,"Heating, Ventilation & Air Conditioning Systems"
+TUI1n.DE,Leisure & Recreation,Leisure & Recreation (NEC)
+FUGR.AS,Oil Related Services and Equipment,Oil Related Services and Equipment (NEC)
+MYCR.ST,Semiconductor Equipment & Testing,Semiconductor Equipment & Testing (NEC)
+GALD.S,Personal Products,Cosmetics & Perfumes
+NEOEN.PA^D25,Independent Power Producers,Renewable IPPs
+VAR.OL,Oil & Gas Exploration and Production,Oil Exploration & Production - Offshore
+BMED.MI,Banks,Banks (NEC)
+CVC.AS,Investment Management & Fund Operators,Private Equity
+PUIGb.MC,Miscellaneous Specialty Retailers,Personal Care Products Retailers
+TUB.BR,Pharmaceuticals,Pharmaceuticals (NEC)
+SUN.S,Industrial Machinery & Equipment,Industrial Machinery & Equipment (NEC)
+VZN.S,Investment Management & Fund Operators,Investment Management
+CAN.L,Broadcasting,Broadcasting (NEC)
+SB1NO.OL,Banks,Banks (NEC)
+BGN.MI,Banks,Private Banks
+PLUSP.L,Miscellaneous Fintech Infrastructure,Miscellaneous Fintech Infrastructure
+MANTA.HE,Life & Health Insurance,Life & Health Insurance (NEC)
+TBCG.L,Banks,Banks (NEC)
+SUNN.S,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+HAGG.DE,Aerospace & Defense,Satellite Design & Manufacture
+R3NK.DE,Aerospace & Defense,Aerospace & Defense (NEC)
+AYV.PA,Ground Freight & Logistics,Ground Freight & Logistics (NEC)
+MOBN.S,"Real Estate Rental, Development & Operations","Real Estate Rental, Development & Operations (NEC)"
+IDR.MC,IT Services & Consulting,IT Services & Consulting (NEC)
+LTMC.MI,Casinos & Gaming,Casinos & Gaming (NEC)
+BGEO.L,Banks,Banks (NEC)
+AMRZ.S,Construction Materials,Construction Materials (NEC)
+MBK.WA,Banks,Banks (NEC)
+KBCA.BR,Investment Holding Companies,Investment Holding Companies (NEC)
+NDXG.DE,Heavy Electrical Equipment,Heavy Electrical Equipment (NEC)
+CAMX.ST,Pharmaceuticals,Pharmaceuticals (NEC)
+UNI.MC,Banks,Banks (NEC)
+FTKn.DE,Investment Banking & Brokerage Services,Investment Banking & Brokerage Services (NEC)
+ZEG.L,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+ABVX.PA,Biotechnology & Medical Research,Biotechnology & Medical Research (NEC)
+VEND.OL,Consumer Publishing,Consumer Publishing (NEC)
+MTO.L,Business Support Services,Business Support Services (NEC)
+MICCT.L,Food Processing,Food Processing (NEC)
+AAF.L,Integrated Telecommunications Services,Integrated Telecommunications Services (NEC)
+ACPP.WA,IT Services & Consulting,IT Services & Consulting (NEC)
+VSURE.ST,Business Support Services,Security Services
+DLG.MI,"Appliances, Tools & Housewares","Appliances, Tools & Housewares (NEC)"
+HUBN.S,Communications & Networking,Communications & Networking (NEC)
