@@ -19,8 +19,7 @@ library(usethis)
 
 expt <- "SPX_STOXX"
 
-# GIT PAT Token: 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
-#as
+# Does this show?
 
 #2. Defining Functions
 
