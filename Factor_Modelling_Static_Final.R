@@ -18,7 +18,6 @@ library(modelsummary)
 library(usethis)
 
 expt <- "SPX_STOXX"
-use_git()
 
 # GIT PAT Token: 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
 
